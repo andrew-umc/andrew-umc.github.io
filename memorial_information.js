@@ -568,7 +568,7 @@ slideVector[index].date_time = "1959";
 slideVector[index].listTitle = "Leroy Shipley";
 
 index++;
-slideVector[index] = new AddPDFDoc (index, "OSorensen_page_for-book.pdf");
+slideVector[index] = new AddPDFDoc (index, "OSorensen_page_for_book.pdf");
 slideVector[index].date_time = "2021";
 slideVector[index].listTitle = "Bob Sorensen";
 
