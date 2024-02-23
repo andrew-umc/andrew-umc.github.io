@@ -647,9 +647,9 @@ slideVector[index].date_time = "Verlen: 2015 & Wilma: 2019";
 slideVector[index].listTitle = "Verlen & Wilma Wiggins";
 
 index++;
-slideVector[index] = new AddPDFDoc (index, "OWilcox_M_page_for_book.pdf");
-slideVector[index].date_time = "2021";
-slideVector[index].listTitle = "Mary Wilcox";
+slideVector[index] = new AddPDFDoc (index, "OWilcox_M_J_page_for_book.pdf");
+slideVector[index].date_time = "Mary: 2021 & Jim: 2023";
+slideVector[index].listTitle = "Jim & Mary Wilcox";
 
 index++;
 slideVector[index] = new AddPDFDoc (index, "0WintleA.pdf");
