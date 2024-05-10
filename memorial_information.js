@@ -243,6 +243,11 @@ slideVector[index].date_time = "2016";
 slideVector[index].listTitle = "Bradley Green";
 
 index++
+slideVector[index] = new AddPDFDoc(index, "Green_Vince_page_for_book.pdf");
+slideVector[index].date_time = "2024";
+slideVector[index].listTitle = "Vince Green";
+
+index++
 AddListBreakToSlideVector (index, "H");
 
 index++
@@ -627,9 +632,9 @@ index++
 AddListBreakToSlideVector (index, "W");
 
 index++;
-slideVector[index] = new AddPDFDoc (index, "0WarrenD.pdf");
-slideVector[index].date_time = "2008";
-slideVector[index].listTitle = "Del Warren";
+slideVector[index] = new AddPDFDoc (index, "Warren_Del_and_Mary_page_for_book.pdf");
+slideVector[index].date_time = "Del:2008 & Mary: 2024";
+slideVector[index].listTitle = "Del & Mary Warren";
 
 index++;
 slideVector[index] = new AddPDFDoc (index, "OWeis_Chuck_and_Doris_for_book.pdf");
