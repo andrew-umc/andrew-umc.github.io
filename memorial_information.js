@@ -497,6 +497,11 @@ slideVector[index].date_time = "2006";
 slideVector[index].listTitle = "RoseMarie Poole";
 
 index++;
+slideVector[index] = new AddPDFDoc (index, "OPowellM_article_for_book_2025.pdf");
+slideVector[index].date_time = "2024";
+slideVector[index].listTitle = "Russell 'Marshall' Powell";
+
+index++;
 slideVector[index] = new AddPDFDoc (index, "0Pound.pdf");
 slideVector[index].date_time = "Clarence: 1964 & Henrietta: 1990";
 slideVector[index].listTitle = "Clarence & Henrietta Pound";
@@ -573,7 +578,7 @@ slideVector[index].date_time = "1959";
 slideVector[index].listTitle = "Leroy Shipley";
 
 index++;
-slideVector[index] = new AddPDFDoc (index, "OSorensen_page_for_book.pdf");
+slideVector[index] = new AddPDFDoc (index, "OSorensen_page_for_book_2025.pdf");
 slideVector[index].date_time = "2021";
 slideVector[index].listTitle = "Bob Sorensen";
 
