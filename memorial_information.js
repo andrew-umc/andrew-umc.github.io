@@ -9,9 +9,9 @@ AddListBreakToSlideVector (index, "A");
 
 index++
 FirstSlide = index;
-slideVector[index] = new AddPDFDoc(index, "oAckerson_page_for_book.pdf");
-slideVector[index].date_time = "2020";
-slideVector[index].listTitle = "Sharon Ackerson";
+slideVector[index] = new AddPDFDoc(index, "Ackerson_S_and_N_pages_for_book.pdf");
+slideVector[index].date_time = "Sharon: 2020 & Nels: 2025";
+slideVector[index].listTitle = "Sharon & Nels Ackerson";
 
 index++
 slideVector[index] = new AddPDFDoc(index, "0AdamsJ.pdf");
