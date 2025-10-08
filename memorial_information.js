@@ -102,6 +102,11 @@ slideVector[index].date_time = "2016";
 slideVector[index].listTitle = "Beverly Bryan";
 
 index++
+slideVector[index] = new AddPDFDoc(index, "0BryanJ.pdf");
+slideVector[index].date_time = "2025";
+slideVector[index].listTitle = "John Bryan";
+
+index++
 slideVector[index] = new AddPDFDoc(index, "0BurchbyG_and_Louise_page_for_book.pdf");
 slideVector[index].date_time = "Glen: 2012 & Louise: 2021";
 slideVector[index].listTitle = "Glen & Louise Burchby";
