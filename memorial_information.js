@@ -616,6 +616,11 @@ index++
 AddListBreakToSlideVector (index, "T");
 
 index++;
+slideVector[index] = new AddPDFDoc (index, "OTallyL_pages_for_book.pdf");
+slideVector[index].date_time = "2025";
+slideVector[index].listTitle = "Lisa Tally";
+
+index++;
 slideVector[index] = new AddPDFDoc (index, "0Taylor_Walt_and_Lois_page_for_book.pdf");
 slideVector[index].date_time = "Walt: 2014 & Lois: 2022";
 slideVector[index].listTitle = "Walt & Lois Taylor";
