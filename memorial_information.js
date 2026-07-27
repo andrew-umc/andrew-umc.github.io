@@ -603,6 +603,11 @@ slideVector[index].date_time = "Charles: 2003 & Leona: 2015";
 slideVector[index].listTitle = "Charles & Leona Stroop";
 
 index++;
+slideVector[index] = new AddPDFDoc (index, "Sturm_Helen_K_page_for_computer.pdf");
+slideVector[index].date_time = "2026";
+slideVector[index].listTitle = "Helen Sturm";
+
+index++;
 slideVector[index] = new AddPDFDoc (index, "0Sturm.pdf");
 slideVector[index].date_time = "2001";
 slideVector[index].listTitle = "Ted Sturm";
