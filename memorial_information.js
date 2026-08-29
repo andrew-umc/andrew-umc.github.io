@@ -367,6 +367,11 @@ slideVector[index].date_time = "2018";
 slideVector[index].listTitle = "Matt Klenosky";
 
 index++;
+slideVector[index] = new AddPDFDoc (index, "Klinger_Nancy_page_for_computer.pdf");
+slideVector[index].date_time = "2026";
+slideVector[index].listTitle = "Nancy Klinger";
+
+index++;
 slideVector[index] = new AddPDFDoc (index, "0KraftK_V.pdf");
 slideVector[index].date_time = "Ken: 2011 & Virginia 2013";
 slideVector[index].listTitle = "Ken & Virginia Kraft";
